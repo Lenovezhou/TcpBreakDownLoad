@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3741739516
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test
+      Dependencies: {}
+    Info_1:
+      Name: cu.tttt
+      Dependencies: {}
